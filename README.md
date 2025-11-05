@@ -131,7 +131,7 @@ G. Continuous Monitoring and Data Refresh
 
 • Review KPIs regularly to enable proactive and timely HR interventions. 
 
-#Key Processes and Methods – Attrition Analytics Dashboard Project 
+# Key Processes and Methods – Attrition Analytics Dashboard Project 
 
 1. Data Preparation and Cleaning 
 
@@ -209,6 +209,6 @@ o Workforce demographics and satisfaction indicators.
 
 • Established a quarterly dashboard refresh process for continuous monitoring and HR decision support. 
 
-#Conclusion 
+# Conclusion 
 
 The Attrition Analytics Dashboard provides a data-driven understanding of workforce dynamics at InsightTech Solutions. With an attrition rate of 16.12%, particularly concentrated among younger, single, and technical employees, the insights reveal clear opportunities to strengthen engagement, refine career development paths, and optimize retention programs. 
