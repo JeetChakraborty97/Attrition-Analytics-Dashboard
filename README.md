@@ -1,6 +1,6 @@
-#Executive Summary – Attrition Analytics Dashboard 
+# Executive Summary – Attrition Analytics Dashboard 
 
-#Overview 
+# Overview 
 
 The Attrition Analytics Dashboard was developed for InsightTech Solutions, a mid-sized organization facing significant employee turnover. The project’s objective was to uncover patterns and drivers behind employee attrition through data-driven analysis and visualization. Using a dataset of 1,470 employees across multiple departments, the dashboard provides deep insights into attrition trends, demographic risks, and workforce engagement. It empowers HR leaders to make informed decisions that improve retention, optimize recruitment, and enhance employee satisfaction. 
 
