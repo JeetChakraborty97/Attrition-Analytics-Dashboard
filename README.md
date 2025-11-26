@@ -1,4 +1,4 @@
-# Executive Summary – Attrition Analytics Dashboard 
+# Attrition Analytics Dashboard (Excel)
 
 <img width="1565" height="781" alt="Attrition Analytics Dashboard SS (Fit to Screen)" src="https://github.com/user-attachments/assets/6357ccc3-4798-4199-833e-1c5d84d6d321" />
 
