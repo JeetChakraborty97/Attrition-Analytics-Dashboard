@@ -124,7 +124,7 @@ This interactivity enables flexible, scenario-based exploration for strategic de
 
 ## KPI Identification and Calculation 
 
-### Defined key performance indicators to measure workforce health: 
+### 1) Defined key performance indicators to measure workforce health: 
 
 * Total Employees: 1,470
 * Attrition Count: 237
@@ -133,13 +133,13 @@ This interactivity enables flexible, scenario-based exploration for strategic de
 * Average Age: 36.9 years
 * Average Job Satisfaction: 2.63 / 4 
 
-### Highlighted KPIs visually at the top of the dashboard for quick insights. 
+### 2) Highlighted KPIs visually at the top of the dashboard for quick insights. 
 
 ## Data Analysis and Aggregation 
 
-### Conducted descriptive and comparative analytics using Excel PivotTables.
+### 1) Conducted descriptive and comparative analytics using Excel PivotTables.
 
-### Analysed attrition across multiple dimensions: 
+### 2) Analysed attrition across multiple dimensions: 
 
 * Department: Highest attrition in R&D (133 employees).
 * Job Role: Highest in Laboratory Technicians (62 employees).
@@ -150,34 +150,29 @@ This interactivity enables flexible, scenario-based exploration for strategic de
 
 ## Dashboard Development and Visualisation 
 
-### Built an interactive Excel dashboard using PivotCharts, slicers, and KPI cards. 
+### 1) Built an interactive Excel dashboard using PivotCharts, slicers, and KPI cards. 
 
-### Included visualisations for: 
+### 2) Included visualisations for: 
 
-o Attrition by department, job role, gender, age, and education. 
+* Attrition by department, job role, gender, age, and education.
+* Workforce demographics and satisfaction indicators. 
 
-o Workforce demographics and satisfaction indicators. 
+### 3) Added dynamic filters for Department and Education Level to enable detailed exploration. 
 
-• Added dynamic filters for Department and Education Level to enable detailed exploration. 
+### 4) Designed the layout for clarity — KPIs at the top, detailed visuals below. 
 
-• Designed the layout for clarity — KPIs at the top, detailed visuals below. 
+## Insight Generation and Interpretation 
 
-5. Insight Generation and Interpretation 
+* Identified younger, single, and technical employees as the highest-risk groups.
+* Found a clear link between low job satisfaction and higher attrition.
+* Highlighted the need for career development, recognition programs, and balanced workloads in high-turnover roles. 
 
-• Identified younger, single, and technical employees as the highest-risk groups. 
+## Strategic Application and Reporting 
 
-• Found a clear link between low job satisfaction and higher attrition. 
-
-• Highlighted the need for career development, recognition programs, and balanced workloads in high-turnover roles. 
-
-6. Strategic Application and Reporting 
-
-• Summarized insights into actionable HR strategies for reducing turnover. 
-
-• Recommended predictive analytics integration for proactive attrition forecasting. 
-
-• Established a quarterly dashboard refresh process for continuous monitoring and HR decision support. 
+* Summarised insights into actionable HR strategies for reducing turnover.
+* Recommended predictive analytics integration for proactive attrition forecasting.
+* Established a quarterly dashboard refresh process for continuous monitoring and HR decision support. 
 
 # Conclusion 
 
-The Attrition Analytics Dashboard provides a data-driven understanding of workforce dynamics at InsightTech Solutions. With an attrition rate of 16.12%, particularly concentrated among younger, single, and technical employees, the insights reveal clear opportunities to strengthen engagement, refine career development paths, and optimize retention programs. 
+The Attrition Analytics Dashboard provides a data-driven understanding of workforce dynamics at InsightTech Solutions. With an attrition rate of 16.12%, particularly concentrated among younger, single, and technical employees, the insights reveal clear opportunities to strengthen engagement, refine career development paths, and optimise retention programs.
