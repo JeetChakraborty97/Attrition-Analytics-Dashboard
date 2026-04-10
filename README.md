@@ -4,134 +4,114 @@
 
 # Overview 
 
-The Attrition Analytics Dashboard was developed for InsightTech Solutions, a mid-sized organization facing significant employee turnover. The project’s objective was to uncover patterns and drivers behind employee attrition through data-driven analysis and visualization. Using a dataset of 1,470 employees across multiple departments, the dashboard provides deep insights into attrition trends, demographic risks, and workforce engagement. It empowers HR leaders to make informed decisions that improve retention, optimize recruitment, and enhance employee satisfaction. 
+The Attrition Analytics Dashboard was developed for InsightTech Solutions, a mid-sized organisation facing significant employee turnover. The project’s objective was to uncover patterns and drivers behind employee attrition through data-driven analysis and visualisation. Using a dataset of 1,470 employees across multiple departments, the dashboard provides deep insights into attrition trends, demographic risks, and workforce engagement. It empowers HR leaders to make informed decisions that improve retention, optimise recruitment, and enhance employee satisfaction. 
 
-1. Purpose and Business Impact 
+## Purpose and Business Impact 
 
-Employee attrition poses serious challenges to productivity, morale, and organizational cost. The dashboard was designed to address these by: 
+Employee attrition poses serious challenges to productivity, morale, and organisational cost. The dashboard was designed to address these by: 
 
-• Quantifying the overall attrition rate of 16.12%, based on 237 employees who have left. 
+* Quantifying the overall attrition rate of 16.12%, based on 237 employees who have left.
+* Identifying high-risk groups by age, gender, job role, and education level.
+* Highlighting workforce characteristics that correlate with higher turnover.
+* Providing HR with a data-backed foundation for targeted retention initiatives and strategic workforce planning. 
 
-• Identifying high-risk groups by age, gender, job role, and education level. 
+This project transforms raw HR data into a strategic decision-support tool, strengthening organisational stability and workforce engagement. 
 
-• Highlighting workforce characteristics that correlate with higher turnover. 
+## Key Insights from the Dashboard 
 
-• Providing HR with a data-backed foundation for targeted retention initiatives and strategic workforce planning. 
+### Workforce Overview 
 
-This project transforms raw HR data into a strategic decision-support tool, strengthening organizational stability and workforce engagement. 
-
-2. Key Insights from the Dashboard 
-
-a. Workforce Overview 
-
-• Total Employees: 1,470 
-
-• Attrition Count: 237 
-
-• Active Employees: 1,233 
-
-• Overall Attrition Rate: 16.12% 
-
-• Average Workforce Age: 36.9 years 
-
-• Average Age of Employees Who Left: 33.6 years 
-
-• Average Job Satisfaction Score: 2.63 / 4 
+* Total Employees: 1,470
+* Attrition Count: 237
+* Active Employees: 1,233
+* Overall Attrition Rate: 16.12%
+* Average Workforce Age: 36.9 years
+* Average Age of Employees Who Left: 33.6 years
+* Average Job Satisfaction Score: 2.63 / 4 
 
 These metrics indicate a moderately young workforce, with attrition concentrated among early-career employees. 
 
-b. Demographic Analysis 
+### Demographic Analysis 
 
-• Gender Distribution: Males represent a slightly larger portion of attrition (150 males vs. 87 females). 
+* Gender Distribution: Males represent a slightly larger portion of attrition (150 males vs. 87 females).
+* Interpretation: Although gender balance is relatively even in the workforce, males show marginally higher turnover, suggesting potential engagement or role-related factors. 
 
-• Interpretation: Although gender balance is relatively even in the workforce, males show marginally higher turnover, suggesting potential engagement or role-related factors. 
+### Attrition by Age Group 
 
-c. Attrition by Age Group 
+Younger employees, especially those under 35, display the highest attrition. This trend suggests early-career dissatisfaction or competitive external opportunities, emphasising the need for career pathing and development programs. 
 
-Younger employees, especially those under 35, display the highest attrition. This trend suggests early-career dissatisfaction or competitive external opportunities, emphasizing the need for career pathing and development programs. 
+### Attrition by Education Level 
 
-d. Attrition by Education Level 
+* The Life Sciences field recorded the highest attrition, with 89 employees leaving. This indicates potential stagnation or limited advancement in roles related to that educational background. 
 
-• The Life Sciences field recorded the highest attrition, with 89 employees leaving. This indicates potential stagnation or limited advancement in roles related to that educational 
-background. 
+### Job Role Attrition 
 
-e. Job Role Attrition 
+* The Laboratory Technician role shows the highest attrition, with 62 employees leaving.
+* Roles such as Sales Representatives and Research Scientists also reflect notable turnover. These insights suggest that operational, sales, and entry-level technical roles face greater instability, possibly due to high performance expectations or limited growth visibility. 
 
-• The Laboratory Technician role shows the highest attrition, with 62 employees leaving. 
+### Department-Level Insights 
 
-• Roles such as Sales Representatives and Research Scientists also reflect notable turnover. These insights suggest that operational, sales, and entry-level technical roles face greater instability, possibly due to high performance expectations or limited growth visibility. 
+* The R&D Department experienced the highest attrition, with 133 employees leaving, followed by Sales and HR.
+* The trend signals possible challenges in workload management, job satisfaction, or career progression within technical departments. 
 
-f. Department-Level Insights 
+### Marital Status Trends 
 
-• The R&D Department experienced the highest attrition, with 133 employees leaving, followed by Sales and HR. 
+Single employees account for the majority of attrition (120 employees). This finding indicates higher flexibility and mobility among younger, unmarried employees, who may be more open to career changes. 
 
-• The trend signals possible challenges in workload management, job satisfaction, or career progression within technical departments. 
-
-g. Marital Status Trends 
-
-• Single employees account for the majority of attrition (120 employees). This finding indicates higher flexibility and mobility among younger, unmarried employees, who may be more open to career changes. 
-
-h. Job Satisfaction and Engagement 
+### Job Satisfaction and Engagement 
 
 The average job satisfaction rating of 2.63 suggests moderate morale among employees. Departments with lower satisfaction also tend to have higher turnover, highlighting the importance of engagement initiatives, recognition programs, and leadership involvement. 
 
-i. Workforce Age Profile 
+### Workforce Age Profile 
 
-With an average workforce age of 36.9 years, the company has a predominantly young to mid-level demographic. This points to the importance of designing retention and mentorship programs tailored to early-career professionals. 
+With an average workforce age of 36.9 years, the company has a predominantly young-to-mid-level demographic. This points to the importance of designing retention and mentorship programs tailored to early-career professionals. 
 
-3. Interactivity and Functionality 
+## Interactivity and Functionality 
 
 The dashboard includes dynamic filters for Education Level and Department, allowing HR stakeholders to: 
 
-• Compare attrition patterns across specific employee groups. 
+* Compare attrition patterns across specific employee groups.
+* Conduct focused analysis (e.g., Bachelor’s-degree holders in R&D vs. Sales).
 
-• Conduct focused analysis (e.g., Bachelor’s-degree holders in R&D vs. Sales). This interactivity enables flexible, scenario-based exploration for strategic decision-making. 
+This interactivity enables flexible, scenario-based exploration for strategic decision-making. 
 
-4. Strategic Recommendations 
+## Strategic Recommendations 
 
-A. Strengthen Employee Engagement & Satisfaction 
+### Strengthen Employee Engagement & Satisfaction 
 
-• Conduct regular feedback and pulse surveys to identify dissatisfaction drivers. 
+* Conduct regular feedback and pulse surveys to identify dissatisfaction drivers.
+* Introduce recognition and reward programs to enhance motivation.
+* Encourage open communication channels between management and staff. 
 
-• Introduce recognition and reward programs to enhance motivation. 
+### Redesign Career Growth Pathways
 
-• Encourage open communication channels between management and staff. 
+* Offer development programs, internal mobility options, and mentorship initiatives for early-career employees.
+* Increase transparency around promotions and performance expectations. 
 
-B. Redesign Career Growth Pathways 
+### Focused Retention in High-Turnover Roles 
 
-• Offer development programs, internal mobility options, and mentorship initiatives for early-career employees. 
+* Reassess workload and incentive structures for Sales and Laboratory Technician positions.
+* Implement targeted retention initiatives such as flexible schedules or project-based bonuses. 
 
-• Increase transparency around promotions and performance expectations. 
+### Optimise Recruitment and Onboarding 
 
-C. Focused Retention in High-Turnover Roles 
+* Strengthen role alignment during recruitment to reduce early exits.
+* Provide a structured onboarding process with mentorship for smoother transitions. 
 
-• Reassess workload and incentive structures for Sales and Laboratory Technician positions. 
+### Leverage Predictive Analytics 
 
-• Implement targeted retention initiatives such as flexible schedules or project-based bonuses. 
+* Integrate predictive modelling into the dashboard to forecast attrition risk.
+* Use statistical scoring to identify “at-risk” employees and intervene proactively. 
 
-D. Optimize Recruitment and Onboarding 
+### Department-Level Accountability 
 
-• Strengthen role alignment during recruitment to reduce early exits. 
+* Share department-level attrition reports with team leaders.
+* Incorporate retention and satisfaction goals into managerial KPIs. 
 
-• Provide a structured onboarding process with mentorship for smoother transitions. 
+## Continuous Monitoring and Data Refresh 
 
-E. Leverage Predictive Analytics 
-
-• Integrate predictive modeling into the dashboard to forecast attrition risk. 
-
-• Use statistical scoring to identify “at-risk” employees and intervene proactively. 
-
-F. Department-Level Accountability 
-
-• Share department-level attrition reports with team leaders. 
-
-• Incorporate retention and satisfaction goals into managerial KPIs. 
-
-G. Continuous Monitoring and Data Refresh 
-
-• Refresh dashboard data quarterly to track emerging patterns. 
-
-• Review KPIs regularly to enable proactive and timely HR interventions. 
+* Refresh dashboard data quarterly to track emerging patterns.
+* Review KPIs regularly to enable proactive and timely HR interventions. 
 
 # Key Processes and Methods – Attrition Analytics Dashboard Project 
 
