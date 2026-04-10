@@ -115,57 +115,44 @@ This interactivity enables flexible, scenario-based exploration for strategic de
 
 # Key Processes and Methods – Attrition Analytics Dashboard Project 
 
-1. Data Preparation and Cleaning 
+## Data Preparation and Cleaning 
 
-• Imported and consolidated a dataset of 1,470 employee records with 44 attributes. 
+* Imported and consolidated a dataset of 1,470 employee records with 44 attributes.
+* Standardised data formats (e.g., gender, education, departments).
+* Removed inconsistencies and missing values for clean analysis.
+* Created derived fields such as age bands and attrition flags for grouping and aggregation. 
 
-• Standardized data formats (e.g., gender, education, departments). 
+## KPI Identification and Calculation 
 
-• Removed inconsistencies and missing values for clean analysis. 
+### Defined key performance indicators to measure workforce health: 
 
-• Created derived fields such as age bands and attrition flags for grouping and aggregation. 
+* Total Employees: 1,470
+* Attrition Count: 237
+* Active Employees: 1,233
+* Attrition Rate: 16.12%
+* Average Age: 36.9 years
+* Average Job Satisfaction: 2.63 / 4 
 
-2. KPI Identification and Calculation 
+### Highlighted KPIs visually at the top of the dashboard for quick insights. 
 
-• Defined key performance indicators to measure workforce health: 
+## Data Analysis and Aggregation 
 
-o Total Employees: 1,470 
+### Conducted descriptive and comparative analytics using Excel PivotTables.
 
-o Attrition Count: 237 
+### Analysed attrition across multiple dimensions: 
 
-o Active Employees: 1,233 
+* Department: Highest attrition in R&D (133 employees).
+* Job Role: Highest in Laboratory Technicians (62 employees).
+* Gender: Males experienced higher attrition (150 employees).
+* Marital Status: Single employees showed the highest turnover (120 employees).
+* Education Field: Life Sciences recorded the most attrition (89 employees).
+* Derived correlations between job satisfaction, age, and attrition patterns. 
 
-o Attrition Rate: 16.12% 
+## Dashboard Development and Visualisation 
 
-o Average Age: 36.9 years 
+### Built an interactive Excel dashboard using PivotCharts, slicers, and KPI cards. 
 
-o Average Job Satisfaction: 2.63 / 4 
-
-• Highlighted KPIs visually at the top of the dashboard for quick insights. 
-
-3. Data Analysis and Aggregation 
-
-• Conducted descriptive and comparative analytics using Excel PivotTables. 
-
-• Analyzed attrition across multiple dimensions: 
-
-o Department: Highest attrition in R&D (133 employees). 
-
-o Job Role: Highest in Laboratory Technicians (62 employees). 
-
-o Gender: Males experienced higher attrition (150 employees). 
-
-o Marital Status: Single employees showed the highest turnover (120 employees). 
-
-o Education Field: Life Sciences recorded the most attrition (89 employees). 
-
-• Derived correlations between job satisfaction, age, and attrition patterns. 
-
-4. Dashboard Development and Visualization 
-
-• Built an interactive Excel dashboard using PivotCharts, slicers, and KPI cards. 
-
-• Included visualizations for: 
+### Included visualisations for: 
 
 o Attrition by department, job role, gender, age, and education. 
 
